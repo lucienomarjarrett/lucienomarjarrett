@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Lucien Jarrett
-- 👀 I’m interested in Data Analysis, Web Developement and Automation
+- 👀 I’m interested in Data Engineering, Data Analysis, Web Developement and Automation
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Web Dev using Django or Flask
 - 📫 How to reach me lucien.jarrett@gmail.com
 
 <!---
